@@ -1,0 +1,9 @@
+# Copy this file to terraform.tfvars and replace the example address with your
+# current public IPv4 address followed by /32.
+admin_cidr = "24.157.117.34/32"
+
+# Optional overrides
+# aws_region              = "ca-central-1"
+# instance_type           = "c6i.large"
+# windows_instance_type   = "t3.medium"
+# name                    = "fortigate-training"
